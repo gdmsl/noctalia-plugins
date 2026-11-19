@@ -1,0 +1,9 @@
+{
+  "bar": {
+    "tooltip": "Workspaces"
+  },
+  "panel": {
+    "title": "Workspaces",
+    "unsupported": "Only niri and Hyprland are supported"
+  }
+}

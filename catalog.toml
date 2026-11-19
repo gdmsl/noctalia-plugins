@@ -1,0 +1,12 @@
+[[plugin]]
+id = "gdmsl/workspace_list"
+name = "Workspace List"
+version = "0.1.0"
+author = "gdmsl"
+license = "MIT"
+icon = "list"
+description = "A bar button that opens a list of every workspace, to switch by name when the bar runs out of room."
+deprecated = false
+plugin_api = 42
+tags = ["workspaces", "niri", "hyprland"]
+dependencies = []
